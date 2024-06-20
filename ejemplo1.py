@@ -1,0 +1,13 @@
+a=5
+b=8
+c=10
+d=11
+e=12
+f=a+b+c+d+e
+g=a-b-c-d-e
+h=a*b*c*d*e
+i=a/b/c/d/e
+print ("la suma de a+b+c+d+e= ", f)
+print ("la resta de a-b-c-d-e= ", g)
+print ("la multiplicación de a*b*c*d*e= ", h)
+print ("la división de a/b/c/d/e= ", i)
